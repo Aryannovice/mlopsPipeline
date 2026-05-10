@@ -1,0 +1,13 @@
+venv/
+mlruns/
+outputs/
+merged_gemma_model/
+gemma_desktop_adapter/
+__pycache__/
+.cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+mlflow.db
