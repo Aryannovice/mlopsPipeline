@@ -179,26 +179,29 @@ python register_model.py
 
 ---
 
-# Future Improvements
 
-- FastAPI serving
-- vLLM deployment
-- Docker containerization
-- RAG integration
-- LangChain integration
-- CI/CD pipelines
-- Monitoring and observability
 
 ---
 
 # Screenshots
 
-(Add screenshots here)
+<img width="1909" height="811" alt="Screenshot 2026-05-10 190258" src="https://github.com/user-attachments/assets/01bc8162-c130-426b-9c3b-d5bfa40b37d8" />
+Screenshot for model fine tuning
+<img width="1462" height="567" alt="Screenshot 2026-05-10 182050" src="https://github.com/user-attachments/assets/5847550d-4146-41ab-8d71-c659d9fc8dbf" />
+Screenshot of local inference
 
-- MLflow experiments
-- Databricks registry
-- Registered model
-- Training runs
+<img width="1099" height="732" alt="Screenshot 2026-05-10 224454" src="https://github.com/user-attachments/assets/bb6bfc0d-d36c-4650-a5a5-40243ca69a86" />
+Model serving examples on databricks(1)
+
+<img width="1114" height="722" alt="Screenshot 2026-05-10 225058" src="https://github.com/user-attachments/assets/72042d64-5a0c-49e2-8227-d16c90ec64c0" />
+Model serving example on databricks(1.2)
+<img width="1103" height="729" alt="Screenshot 2026-05-10 225109" src="https://github.com/user-attachments/assets/9e5b3c10-ddc9-4e25-a230-78746279f8e0" />
+Model serving example on databricks(2)
+
+
+
+
+
 
 ---
 
